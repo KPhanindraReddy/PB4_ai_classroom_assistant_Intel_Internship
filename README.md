@@ -79,7 +79,7 @@ Designed for teachers to personalize instruction and understand class dynamics i
 4. Enter your Google API key for image search features
 
 > **Tip**: Restart the runtime if webcam feed freezes
-
+ 
 
 
 
